@@ -1,2 +1,4 @@
 # MPG-Calculator
-A basic c++ program which uses 2 arrays, of miles and gallons, and converted to MPG and stored into a 3rd array. An old basic practice program meant to learn arrays with.
+A basic c++ program which uses 2 arrays, of miles and gallons. It takes those arrays, calculates the MPG and stores those values into a 3rd array.
+
+A very old basic practice program meant to learn arrays.
